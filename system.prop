@@ -1,0 +1,12 @@
+# CABL
+ro.qualcomm.cabl=0
+
+# RAM
+ro.config.low_ram=false
+ro.config.zram=false
+
+# EONS
+persist.eons.enabled=true
+
+# Screen
+ro.sf.lcd_density=240
